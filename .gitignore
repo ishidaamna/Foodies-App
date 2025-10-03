@@ -137,3 +137,7 @@ dist
 
 # macOS system files
 .DS_Store
+
+# Database files
+datameals.db
+
